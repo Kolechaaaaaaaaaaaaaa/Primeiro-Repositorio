@@ -1,37 +1,55 @@
-#t1{
+t1{
     text-align: center;
 }
-#t3{
-    color: #363636;
+t3{
+    color: #252323; 
 }
-#t4{
+t4{
 font-size: 21px;
 }
-#t5{
+t5{
     font-size: 21px;
 }
-#t6{
+t6{
     font-size: 25px;
 }
-#t7{
+t7{
     font-size: 21px;
 }
-#t8{
+t8{
     font-size: 21px;
 }
-#t9{
+t9{
     font-size: 25px;
 }
-#t10{
+t10{
     font-size: 21px;
 }
-#t11{
+t11{
     font-size: 21px;
 }
-#t12{
+t12{
      
     font-size: 25px;
 }
-#t13{
+t13{
+    font-size: 21px;
+}
+t14{
+    font-size: 21px; 
+}
+.capa{
+    margin-left: 40%;
+}
+.capa2{
+    margin-left: 40%;
+
+}
+.capa3{
+    margin-left: 40%;
+
+}
+.capa4{
+    margin-left: 40%;
 
 }
