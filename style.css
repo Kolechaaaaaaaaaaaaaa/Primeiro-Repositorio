@@ -1,5 +1,8 @@
 t1{
-    text-align: center;
+    text-align: center; background-color:#1E90FF;
+}
+t2{
+    font-weight: lighter;
 }
 t3{
     color: #252323; 
@@ -39,17 +42,35 @@ t14{
     font-size: 21px; 
 }
 .capa{
-    margin-left: 40%;
+    margin-left: 35%;
 }
 .capa2{
-    margin-left: 40%;
+    margin-left: 35%;
 
 }
 .capa3{
-    margin-left: 40%;
+    margin-left: 35%;
 
 }
 .capa4{
-    margin-left: 40%;
+    margin-left: 35%;
+}
+h19 {
+    font-size: 25px;font-weight: bold;
+}
 
+.itens {
+    font-size: 21px;
+}
+.livros {
+ background-color: #1E90FF;
+}
+body{
+    background-color: #87CEFA;
+}
+t20{
+    text-align: center;
+}
+.banner1{
+    margin-right: 100%;
 }
