@@ -1,6 +1,10 @@
 t1{
     text-align: center; background-color:#1E90FF;
 }
+nav li{
+text-align: center;
+text-decoration: none;
+}
 t2{
     font-weight: lighter;
 }
